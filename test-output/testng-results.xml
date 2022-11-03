@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="211680" started-at="2022-07-05T04:36:17Z" finished-at="2022-07-05T04:39:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="211680" started-at="2022-07-05T04:36:17Z" finished-at="2022-07-05T04:39:49Z">
+      <class name="testNGScripts.HomePageModule">
+        <test-method status="PASS" signature="OpenERPApp()[pri:0, instance:testNGScripts.HomePageModule@58651fd0]" name="OpenERPApp" is-config="true" duration-ms="59322" started-at="2022-07-05T04:36:17Z" finished-at="2022-07-05T04:37:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenERPApp -->
+        <test-method status="PASS" signature="stockitems()[pri:1, instance:testNGScripts.HomePageModule@58651fd0]" name="stockitems" duration-ms="4041" started-at="2022-07-05T04:37:17Z" finished-at="2022-07-05T04:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stockitems -->
+        <test-method status="PASS" signature="CloseERPApp()[pri:0, instance:testNGScripts.HomePageModule@58651fd0]" name="CloseERPApp" is-config="true" duration-ms="381" started-at="2022-07-05T04:37:21Z" finished-at="2022-07-05T04:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseERPApp -->
+        <test-method status="PASS" signature="OpenERPApp()[pri:0, instance:testNGScripts.HomePageModule@58651fd0]" name="OpenERPApp" is-config="true" duration-ms="79140" started-at="2022-07-05T04:37:21Z" finished-at="2022-07-05T04:38:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenERPApp -->
+        <test-method status="PASS" signature="customerpage()[pri:2, instance:testNGScripts.HomePageModule@58651fd0]" name="customerpage" duration-ms="2647" started-at="2022-07-05T04:38:40Z" finished-at="2022-07-05T04:38:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerpage -->
+        <test-method status="PASS" signature="CloseERPApp()[pri:0, instance:testNGScripts.HomePageModule@58651fd0]" name="CloseERPApp" is-config="true" duration-ms="183" started-at="2022-07-05T04:38:43Z" finished-at="2022-07-05T04:38:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseERPApp -->
+        <test-method status="PASS" signature="OpenERPApp()[pri:0, instance:testNGScripts.HomePageModule@58651fd0]" name="OpenERPApp" is-config="true" duration-ms="30924" started-at="2022-07-05T04:38:43Z" finished-at="2022-07-05T04:39:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenERPApp -->
+        <test-method status="PASS" signature="Stockcategory()[pri:3, instance:testNGScripts.HomePageModule@58651fd0]" name="Stockcategory" duration-ms="2518" started-at="2022-07-05T04:39:14Z" finished-at="2022-07-05T04:39:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Stockcategory -->
+        <test-method status="PASS" signature="CloseERPApp()[pri:0, instance:testNGScripts.HomePageModule@58651fd0]" name="CloseERPApp" is-config="true" duration-ms="125" started-at="2022-07-05T04:39:16Z" finished-at="2022-07-05T04:39:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseERPApp -->
+        <test-method status="PASS" signature="OpenERPApp()[pri:0, instance:testNGScripts.HomePageModule@58651fd0]" name="OpenERPApp" is-config="true" duration-ms="29443" started-at="2022-07-05T04:39:17Z" finished-at="2022-07-05T04:39:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenERPApp -->
+        <test-method status="PASS" signature="UnitofMeasurement()[pri:4, instance:testNGScripts.HomePageModule@58651fd0]" name="UnitofMeasurement" duration-ms="2796" started-at="2022-07-05T04:39:46Z" finished-at="2022-07-05T04:39:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UnitofMeasurement -->
+        <test-method status="PASS" signature="CloseERPApp()[pri:0, instance:testNGScripts.HomePageModule@58651fd0]" name="CloseERPApp" is-config="true" duration-ms="101" started-at="2022-07-05T04:39:49Z" finished-at="2022-07-05T04:39:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseERPApp -->
+      </class> <!-- testNGScripts.HomePageModule -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
